@@ -3,7 +3,6 @@
 #include <stdio.h>
 /**
   * main - This is wher the program starts
-  * @n: the variable to be printed
   * Return: 0
   */
 int main(void)
