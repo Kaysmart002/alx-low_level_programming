@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-  * int _islower - entry point
+  * _islower - entry point
   * @c: character to be checked
   * Return: 1 on success
   */
