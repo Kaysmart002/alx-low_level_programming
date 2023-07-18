@@ -2,7 +2,7 @@
 /**
   * _isalpha - Entry point
   * @c: Character to be checked
-  * Return 1 on success
+  * Return: 1 on success
   */
 int _isalpha(int c)
 {
