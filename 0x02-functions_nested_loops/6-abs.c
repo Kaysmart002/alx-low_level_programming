@@ -1,6 +1,7 @@
 #include "main.h"
 /**
   * _abs - Entry point
+  * @k: the number to be checked
   * Return: 1 on success
   */
 int _abs(int k)
