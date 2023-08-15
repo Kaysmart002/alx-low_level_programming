@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
+  * main - where the program starts to print the name if the file
   * description -  program that prints the name of a file
-  * main - Where the program starts
-  * Return: 0
+  * Return: Always 0
   */
 
 int main(void)
