@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
-  * program that prints the name of a file
-  * return 0
+  * Description: program that prints the name of a file
+  * main: where the program starts
+  * Return 0
   */
 
 int main(void)
